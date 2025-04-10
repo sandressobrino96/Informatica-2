@@ -25,7 +25,7 @@ void fun_b(int a[], int tam){
 //@0x748d5ff690 y se le adicionan 4 bytes
 
 // ¿Cuál es la dirección y el contenido en memoria del elemento array [3]?
-//array[3] está en 0x748d5ff69C dado que se inicia en @0x748d5ff690
+//array[3] está en 0xf0041ffa2c dado que se inicia en @@0xf0041ffa20
 
 
 // Describe el efecto que tiene la función fun_b, sobre el arreglo array.
